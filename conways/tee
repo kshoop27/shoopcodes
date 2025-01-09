@@ -1,9 +1,0 @@
-class players:
-    def __init__(self, age, weight, position):
-        self.age = age
-        self.weight = weight
-        self.position = position
-
-
-cristiano = players(38, 179, RW)
-messi = players(35, 149, LW)
